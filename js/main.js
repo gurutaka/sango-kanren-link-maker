@@ -1,5 +1,5 @@
 chrome.extension.onMessage.addListener(req => {
-  let result = `[href="${req.url}" title="${req.title}" site="" target="_blank"]`
+  let result = `[sanko href="${req.url}" title="${req.title}" site="" target="_blank"]`
   execCopy(result)
 })
 
