@@ -13,3 +13,7 @@ wordpress のテーマ「SNAGO」の関連リンクを自動で作るクロー�
 
 こんな感じで、開いているページのリンクをコピーできます。
 `[SANGO | 心地良さを追求したWordPressテーマ](https://saruwakakun.design/)`
+
+## 解説ページ
+
+[【SNAGO 限定】超簡単に参考リンクを即生成するクローム拡張機能をリリースしました！ | ぐるたかログ](https://gurutaka-log.com/sango-short-cut-chrome-extensino)
